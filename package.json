@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 para Open BootCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hola.js"
+  },
+  "keywords": [
+    "ejercicio1",
+    "openbootcamp",
+    "AC"
+  ],
+  "author": "Adrián Fernández Rosa",
+  "license": "ISC"
+}
